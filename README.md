@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AakashMahajn
 - 👀 I’m interested in physics and maths.
-- 🌱 I’m currently learning BE second year
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying BE final year in computer science.
+- My hobbies are coding, problem solving, watching anime, listening to music.
 - 📫 How to reach me ...
 
 <!---
