@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AakashMahajn
+- 👋 Hi, I’m @AakashMahajan
 - 👀 I’m interested in physics and maths.
 - 🌱 I’m currently studying BE final year in computer science.
 - My hobbies are coding, problem solving, watching anime, listening to music.
